@@ -1,0 +1,7 @@
+#Mon Jun 05 23:20:08 ICT 2017
+base.0=C\:\\android\\CameraSnap1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_baa73543cd30100f6e108311442d35284e628bb9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\android\\CameraSnap1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a1e9973e46717b87452a5f8ac9ca9a2362f91a17\\classes.dex
+base.1=C\:\\android\\CameraSnap1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a1e9973e46717b87452a5f8ac9ca9a2362f91a17
+file.0=C\:\\android\\CameraSnap1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_baa73543cd30100f6e108311442d35284e628bb9\\classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\android\CameraSnap1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86d425b1ebe707221e5489475b7267113124ba78">
+        <dex dex="C:\android\CameraSnap1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a1e9973e46717b87452a5f8ac9ca9a2362f91a17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\CameraSnap1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\android\CameraSnap1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_baa73543cd30100f6e108311442d35284e628bb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\arinchai_nanjaruwong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\android\CameraSnap1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_9330e268ac04ccb299b4d1dce415ef0c94cb241f\classes.dex" />
+    </item>
+
+</items>
